@@ -6,4 +6,4 @@ src = "src"
 title = "Draw RF"
 
 [output.html]
-site-url = "/mdBook/"
+site-url = "/docs/draw-rf/book/"
